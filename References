@@ -1,0 +1,27 @@
+
+@misc{Shiv, 
+      title={House price prediction in King County, USA}, 
+      url={https://www.kaggle.com/code/shiv28/house-price-prediction-in-king-county-usa/notebook}, 
+      journal={Kaggle}, 
+      publisher={Kaggle}, 
+      author={Shiv28}, 
+      year={2022}, 
+      month={Feb}} 
+
+@Manual{R2021,
+       title = {R: A Language and Environment for Statistical Computing},
+      author = {{R Core Team}},
+      organization = {R Foundation for Statistical Computing},
+      address = {Vienna, Austria},
+      year = {2023},
+      url = {https://www.R-project.org/},
+     }
+     
+@Manual{RStudio2020, 
+     title = {RStudio: Integrated Development Environment for R},
+     author = {{Posit team}},
+     organization = {Posit Software, PBC},
+     address = {Boston, MA},
+     year = {2024},
+     url = {http://www.posit.co/},
+     }
